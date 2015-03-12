@@ -15,5 +15,7 @@
     <property name="bashsupport.weddingNotification.shown" value="1" />
     <property name="bashsupport.weddingNotification.enabled" value="false" />
     <property name="Non-Project Files" value="Yellow" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
   </component>
 </application>
