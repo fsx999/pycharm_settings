@@ -39,17 +39,12 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/PycharmProjects/vo" />
         <option value="$USER_HOME$/PycharmProjects/vodantoc" />
+        <option value="$USER_HOME$/PycharmProjects/vo" />
         <option value="$USER_HOME$/PycharmProjects/duck_inscription" />
         <option value="$USER_HOME$/PycharmProjects/pal2" />
         <option value="$USER_HOME$/PycharmProjects/duck_bo_etu" />
         <option value="$USER_HOME$/PycharmProjects/duck_etudiant" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/PycharmProjects/vodantoc" />
       </list>
     </option>
     <option name="names">
@@ -58,7 +53,6 @@
         <entry key="$USER_HOME$/PycharmProjects/duck_inscription" value="duck_inscription, django-xadmin..." />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/PycharmProjects/vo" />
   </component>
   <component name="Registry">
     <entry key="ide.scratch.enabled" value="false" />
