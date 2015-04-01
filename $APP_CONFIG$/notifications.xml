@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <toolWindow group="Find in Path" />
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Vcs Messages" />
