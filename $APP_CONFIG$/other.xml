@@ -48,9 +48,15 @@
         <option value="$USER_HOME$/PycharmProjects/duck_etudiant" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/duck_inscription" />
+      </list>
+    </option>
     <option name="names">
       <map>
         <entry key="$USER_HOME$/PycharmProjects/duck_bo_etu" value="duck_bo_etu, django_apogee_project..." />
+        <entry key="$USER_HOME$/PycharmProjects/duck_inscription" value="duck_inscription, django-xadmin..." />
       </map>
     </option>
     <option name="lastPath" value="$USER_HOME$/PycharmProjects/pal2" />
