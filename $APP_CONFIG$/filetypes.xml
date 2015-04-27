@@ -1,11 +1,10 @@
 <application>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*$py.class;*.egg-info;wheelhouse;" />
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.pyc;.pyo;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;wheelhouse;" />
     <extensionMap>
       <mapping ext="ttf" type="Native" />
       <mapping pattern="shema_uml" type="PlantUML file" />
       <mapping pattern="Vagrantfile" type="Puppet" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="7" />
   </component>
 </application>
