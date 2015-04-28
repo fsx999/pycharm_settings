@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*$py.class;*.egg-info;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;wheelhouse;" />
     <extensionMap>
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="ttf" type="Native" />
       <mapping pattern="tasks.yml" type="PLAIN_TEXT" />
       <mapping pattern="shema_uml" type="PlantUML file" />
