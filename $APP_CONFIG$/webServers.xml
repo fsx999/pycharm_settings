@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="985686d9-01cc-469a-8387-6bb7dce91ca5" name="web vagrant" url="http://192.168.33.10">
-        <fileTransfer host="192.168.33.10" port="22" privateKey="$USER_HOME$/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/private_key" accessType="SFTP" username="vagrant" keyPair="true">
+        <fileTransfer host="192.168.33.10" port="22" privateKey="$USER_HOME$/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/private_key" rootFolder="/home/vagrant/PycharmProjects" accessType="SFTP" username="vagrant" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" />
           </advancedOptions>
