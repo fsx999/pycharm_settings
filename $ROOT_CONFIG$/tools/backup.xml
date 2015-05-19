@@ -22,7 +22,7 @@
   </tool>
   <tool name="duck_duck_vagrant" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/virtualenvs/duck_duck/bin/fab" />
+      <option name="COMMAND" value="fab" />
       <option name="PARAMETERS" value="backup_duck_duck_vagrant" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
     </exec>
