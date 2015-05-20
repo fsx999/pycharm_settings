@@ -88,7 +88,14 @@
     </driver>
     <driver id="sqlite" name="SQLite" dialect="SQLite">
       <option name="auto-sync" value="true" />
-      <driver id="sqlite.xerial" name="Xerial" />
+      <driver id="sqlite.xerial" name="Xerial">
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlite-jdbc-3.8.9.jar</url>
+        </library>
+      </driver>
       <driver id="sqlite.zentus" name="Zentus" />
     </driver>
   </component>
