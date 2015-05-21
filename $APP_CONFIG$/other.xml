@@ -88,6 +88,30 @@
       </map>
     </option>
   </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="544f5c75d66ef71ebcba7d53" name="DUCK_DUCK" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="50c1b37c73f544bf68006ce9" name="fsx999" />
+      </option>
+      <password>df9fdf9cdfcbdf9cdfc9df9ddfcfdf9cdf99dfcfdf9edf9fdf9adfc9df9cdf9edfc8dfcbdf92dfc9df9fdf98df9edfccdf99dfc8df9cdfc9df9fdfc8dfcfdf9edfcfdf9ddfc8dfc9dfcedfcedf9edfcedf9adfcfdf9cdfccdf99dfccdf9fdfcfdf92df93df9adf99df9cdf9fdf9ddf93df9edfc8df9ddfcedf99df9fdf9bdf9b</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/PycharmProjects/duck_inscription">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/PycharmProjects/duck_inscription" />
   </component>
