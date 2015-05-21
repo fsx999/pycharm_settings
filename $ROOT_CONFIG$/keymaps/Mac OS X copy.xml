@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta F4" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift control SLASH" />
@@ -29,13 +33,16 @@
     <keyboard-shortcut first-keystroke="PAGE_UP" />
     <keyboard-shortcut first-keystroke="alt UP" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="control RIGHT" />
     <keyboard-shortcut first-keystroke="control meta RIGHT" />
+    <keyboard-shortcut first-keystroke="control TAB" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="control LEFT" />
     <keyboard-shortcut first-keystroke="control meta LEFT" />
+    <keyboard-shortcut first-keystroke="shift control TAB" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
@@ -52,6 +59,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
+  <action id="Switcher" />
   <action id="Tool_pull_duck_duck">
     <keyboard-shortcut first-keystroke="control meta K" />
   </action>
