@@ -59,6 +59,7 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.Env/test_cms/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="false" />
@@ -69,6 +70,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.Env/test_cms/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="true" />
@@ -79,6 +81,7 @@
     </option>
     <option name="SDK_TO_ATTEST">
       <map>
+        <entry key="$USER_HOME$/.Env/test_cms/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="false" />
