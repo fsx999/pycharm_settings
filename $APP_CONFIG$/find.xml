@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '/Users/paulguichon/PycharmProjects/duck_inscription_payzen/duck_inscription_payzen/urls.py'" />
+    <option name="defaultScopeName" value="File '/Users/paulguichon/PycharmProjects/duck_inscription_payzen/duck_inscription_payzen/urls.py'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/paulguichon/PycharmProjects/duck_inscription_payzen/duck_inscription_payzen/urls.py'" />
   </component>
 </application>
