@@ -1448,6 +1448,7 @@
         <entry key="EEGNavigator" value="0.1.0.dev1" />
         <entry key="EEGtools" value="0.2.1" />
         <entry key="EFZP" value="0.1" />
+        <entry key="EIMS" value="1.0" />
         <entry key="EMIRGE" value="0.6.2a7" />
         <entry key="EMMSA" value="0.0.4" />
         <entry key="EMpy----ElectroMagnetic-Python" value="0.1.2" />
@@ -8016,7 +8017,7 @@
         <entry key="ago" value="0.0.6" />
         <entry key="agon" value="0.1.dev22" />
         <entry key="agon-ratings" value="0.2" />
-        <entry key="agora" value="0.4.16" />
+        <entry key="agora" value="0.4.17" />
         <entry key="agoraplex.themes.sphinx" value="0.1.3" />
         <entry key="agpy" value="0.1.3" />
         <entry key="agrimpy" value="0.0.3" />
@@ -13348,7 +13349,8 @@
         <entry key="collective.configviews" value="3.0.2" />
         <entry key="collective.confirmableforms" value="1.4.2" />
         <entry key="collective.contact.contactlist" value="1.0" />
-        <entry key="collective.contact.core" value="1.4" />
+        <entry key="collective.contact.core" value="1.5" />
+        <entry key="collective.contact.duplicated" value="0.1" />
         <entry key="collective.contact.facetednav" value="1.1.2" />
         <entry key="collective.contact.membrane" value="1.0.2" />
         <entry key="collective.contact.plonegroup" value="0.2" />
@@ -16335,7 +16337,7 @@
         <entry key="devices" value="0.0.1" />
         <entry key="deviceutils" value="0.1.4" />
         <entry key="devil" value="0.9" />
-        <entry key="devilry" value="2.1.0-beta.012" />
+        <entry key="devilry" value="2.1.0-beta.013" />
         <entry key="devilry_xmlrpc_client" value="0.1.7" />
         <entry key="devilryrestfullib" value="0.3" />
         <entry key="devizo" value="0.10" />
@@ -24855,6 +24857,7 @@
         <entry key="faceLogin" value="0.1dev" />
         <entry key="face_client" value="1.2.dev" />
         <entry key="facebook-ads-api" value="0.2.1" />
+        <entry key="facebook-datastore" value="3.1.1" />
         <entry key="facebook-python-sdk" value="0.1" />
         <entry key="facebook-scribe" value="2.0" />
         <entry key="facebook-sdk" value="0.4.0" />
@@ -25059,9 +25062,9 @@
         <entry key="fbtest" value="1.0" />
         <entry key="fbu" value="0.0.2" />
         <entry key="fc-thumbnail" value="11.15" />
-        <entry key="fc.agent" value="1.6.6" />
+        <entry key="fc.agent" value="1.6.7" />
         <entry key="fc.livemig" value="0.2.6" />
-        <entry key="fc.qemu" value="0.7.3" />
+        <entry key="fc.qemu" value="0.7.4" />
         <entry key="fcache" value="0.4.4" />
         <entry key="fcc" value="0.1.3" />
         <entry key="fccdata" value="1.0.0" />
@@ -27572,7 +27575,7 @@
         <entry key="golemapi" value="0.8.0" />
         <entry key="goless" value="0.7.2" />
         <entry key="golismero" value="2.0.3-1" />
-        <entry key="gomatic" value="0.3.11" />
+        <entry key="gomatic" value="0.3.12" />
         <entry key="gomill" value="0.7.4" />
         <entry key="gomobile.convergence" value="1.0.3" />
         <entry key="gomobile.imageinfo" value="0.9.3" />
@@ -28117,7 +28120,7 @@
         <entry key="guitar" value="0.1.1" />
         <entry key="guitest" value="0.3" />
         <entry key="guiu-english" value="1.0" />
-        <entry key="gulag" value="0.4" />
+        <entry key="gulag" value="0.41" />
         <entry key="gulliver" value="0.1-dev" />
         <entry key="gulpless" value="0.7.6" />
         <entry key="gum" value="0.8.1" />
@@ -32446,6 +32449,7 @@
         <entry key="leancloud-cloudcode-sdk" value="1.0.0" />
         <entry key="leancloud-sdk" value="1.0.15" />
         <entry key="leaner" value="0.1.6.4" />
+        <entry key="leanpub" value="0.1" />
         <entry key="leap" value="2014.1" />
         <entry key="leap.auth" value="0.1.2" />
         <entry key="leap.bitmask" value="0.8.1" />
@@ -33691,6 +33695,7 @@
         <entry key="magneturi" value="1.2" />
         <entry key="magni" value="1.3.0" />
         <entry key="magnitude" value="0.9.1" />
+        <entry key="magnolia_coach" value="1.0.0" />
         <entry key="magnolia_nester" value="1.4.0" />
         <entry key="magnum" value="0.1" />
         <entry key="magnum-pi" value="1.2" />
@@ -35302,7 +35307,7 @@
         <entry key="mollyZ3950" value="2.04-molly1" />
         <entry key="molnctrl" value="0.6.0" />
         <entry key="molo" value="1.0.6" />
-        <entry key="molo.core" value="2.0.1" />
+        <entry key="molo.core" value="2.0.2" />
         <entry key="molp" value="0.5.2" />
         <entry key="molt" value="0.1.1" />
         <entry key="mom" value="0.1.3" />
@@ -37395,7 +37400,7 @@
         <entry key="normpath" value="1.0.0" />
         <entry key="normpy" value="0.1" />
         <entry key="nosango" value="0.4" />
-        <entry key="nose" value="1.3.6" />
+        <entry key="nose" value="1.3.7" />
         <entry key="nose-alembic-attrib" value="0.1" />
         <entry key="nose-alert" value="0.9.1" />
         <entry key="nose-allure-plugin" value="1.0.1" />
@@ -37900,7 +37905,7 @@
         <entry key="observer.simple" value="1.0.0" />
         <entry key="obspy" value="0.10.2" />
         <entry key="obspyDMT" value="0.9.9" />
-        <entry key="obspyh5" value="0.1.0" />
+        <entry key="obspyh5" value="0.2.0" />
         <entry key="obsub" value="0.2" />
         <entry key="oc-cab" value="0.1" />
         <entry key="oc-js" value="0.8" />
@@ -37963,6 +37968,7 @@
         <entry key="odnoklassniki" value="0.9.2" />
         <entry key="odo" value="0.3.2" />
         <entry key="odoo" value="1.0" />
+        <entry key="odoo-sphinx-autodoc" value="0.1" />
         <entry key="odoo-toolkit" value="0.1.0" />
         <entry key="odoo_gateway" value="0.129" />
         <entry key="odoo_tests_openerp_scripts" value="0.1.3" />
@@ -37990,7 +37996,7 @@
         <entry key="offlinetb" value="0.0.6" />
         <entry key="offtrac" value="0.1.0" />
         <entry key="offyt" value="0.1.3" />
-        <entry key="ofpstr" value="0.1" />
+        <entry key="ofpstr" value="0.1.1" />
         <entry key="ofpy" value="0.25" />
         <entry key="ofs" value="0.4.2" />
         <entry key="ofx" value="0.1" />
@@ -38168,6 +38174,7 @@
         <entry key="oodoctest" value="0.1.0" />
         <entry key="oodt" value="0.8.1" />
         <entry key="oofill" value="1.1.0" />
+        <entry key="ooi" value="0.0" />
         <entry key="ook" value="1.0.1" />
         <entry key="ooldap" value="0.1.0" />
         <entry key="oolib" value="12" />
@@ -39067,7 +39074,7 @@
         <entry key="paascli" value="0.3" />
         <entry key="pablo" value="0.1.0" />
         <entry key="pac" value="0.1" />
-        <entry key="pacer" value="0.17.4" />
+        <entry key="pacer" value="0.17.5" />
         <entry key="pacer-scraper-library" value="1.0a" />
         <entry key="pacer_lib" value="2.33" />
         <entry key="pacha" value="0.3.1" />
@@ -41945,7 +41952,7 @@
         <entry key="pumpkin" value="0.1.10" />
         <entry key="pumpr" value="0.1.1" />
         <entry key="pumptweet" value="1.5.0" />
-        <entry key="pumpy" value="1.1.2" />
+        <entry key="pumpy" value="1.1.3" />
         <entry key="pumuckl" value="0.2.0" />
         <entry key="punc" value="0.2" />
         <entry key="punchcard.py" value="0.2" />
@@ -44781,7 +44788,7 @@
         <entry key="pypsql" value="0.0.1" />
         <entry key="pypssl" value="1.1" />
         <entry key="pypstats" value="1.4" />
-        <entry key="pypstools" value="0.1.3" />
+        <entry key="pypstools" value="0.1.5" />
         <entry key="pypsum" value="0.3.0" />
         <entry key="pyptlib" value="0.0.6" />
         <entry key="pyptpchdk" value="0.2.1" />
@@ -44877,7 +44884,7 @@
         <entry key="pyramid-recipe-modwsgi" value="0.1" />
         <entry key="pyramid-tiny-utility" value="0.0.2" />
         <entry key="pyramid-views" value="1.2.8" />
-        <entry key="pyramid-yards" value="0.2" />
+        <entry key="pyramid-yards" value="0.5" />
         <entry key="pyramid_addons" value="0.21" />
         <entry key="pyramid_admin" value="0.4.2dev" />
         <entry key="pyramid_admin2" value="0.3" />
@@ -45088,7 +45095,7 @@
         <entry key="pyramid_wtforms" value="2.0.1" />
         <entry key="pyramid_xmlrpc" value="0.1" />
         <entry key="pyramid_xslt" value="0.1" />
-        <entry key="pyramid_yards" value="0.5" />
+        <entry key="pyramid_yards" value="0.4" />
         <entry key="pyramid_zcml" value="1.0.0" />
         <entry key="pyramid_zodbconn" value="0.7" />
         <entry key="pyramid_zope_request" value="0.2" />
@@ -49611,7 +49618,7 @@
         <entry key="run-stack" value="0.2.0" />
         <entry key="run-watch" value="0.2.0" />
         <entry key="runFBTests" value="2.0.1" />
-        <entry key="runHiC" value="0.5.2" />
+        <entry key="runHiC" value="0.5.4" />
         <entry key="run_doctest" value="0.5" />
         <entry key="runcython" value="0.2.1" />
         <entry key="rundeckrun" value="0.1.15" />
@@ -52536,7 +52543,7 @@
         <entry key="spreadsheet" value="1.2.1" />
         <entry key="spreadxmlrpclib" value="0.3.0" />
         <entry key="spring" value="5.8.7" />
-        <entry key="springboard" value="1.0.0" />
+        <entry key="springboard" value="1.0.1" />
         <entry key="springerdl" value="1.3-dev" />
         <entry key="springfield" value="0.7.12" />
         <entry key="springfield-mongo" value="0.7.2" />
@@ -56557,7 +56564,7 @@
         <entry key="tymer" value="0.2" />
         <entry key="tyoi.OAuth2" value="0.2.1" />
         <entry key="typ" value="0.9.1" />
-        <entry key="type_constraint" value="0.0.7" />
+        <entry key="type_constraint" value="0.0.10" />
         <entry key="typeannotations" value="0.1.0" />
         <entry key="typecheck" value="0.3.5" />
         <entry key="typecheck-decorator" value="1.0" />
@@ -60524,6 +60531,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1433235543255" />
+    <option name="LAST_TIME_CHECKED" value="1433239079788" />
   </component>
 </application>
