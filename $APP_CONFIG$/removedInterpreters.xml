@@ -2,8 +2,10 @@
   <component name="PySdkService">
     <option name="REMOVED_SDKS">
       <set>
+        <option value="$USER_HOME$/.Env/test_cms/bin/python" />
         <option value="$USER_HOME$/virtualenvs/duck_duck/bin/python" />
         <option value="$USER_HOME$/virtualenvs/duck_duck_17/bin/python" />
+        <option value="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" />
         <option value="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" />
         <option value="ssh://vagrant@192.168.33.10:22/usr/bin/python" />
         <option value="vagrant:///Users/paulguichon/PycharmProjects/duck_site/usr/bin/python" />
