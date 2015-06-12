@@ -84,6 +84,7 @@
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="vagrant:///Users/nikosgpet/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
+        <entry key="vagrant:///Users/paulguichon/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -97,6 +98,7 @@
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="vagrant:///Users/nikosgpet/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
+        <entry key="vagrant:///Users/paulguichon/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -110,6 +112,7 @@
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="vagrant:///Users/nikosgpet/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
+        <entry key="vagrant:///Users/paulguichon/PycharmProjects/duck_ansible/.vagrant/machines/web/virtualbox/home/vagrant/Envs/duck/bin/python" value="false" />
       </map>
     </option>
   </component>
