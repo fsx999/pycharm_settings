@@ -1,0 +1,9 @@
+<toolSet name="ansible">
+  <tool name="Git install" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/ansible-playbook" />
+      <option name="PARAMETERS" value="provisioning/prod.yml --connection=local -i &quot;localhost,&quot; --tags=git --extra-var=@provisioning/var.yml" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
+    </exec>
+  </tool>
+</toolSet>
