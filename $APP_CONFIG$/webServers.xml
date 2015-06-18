@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="3eeeeb66-3d47-4b55-a318-ccb6dde7e65a" name="prod" url="http://195.154.201.13">
+        <fileTransfer host="195.154.201.13" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/ied-www" accessType="SFTP" username="ied-www" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
