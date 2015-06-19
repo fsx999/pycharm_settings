@@ -6,6 +6,7 @@
       <mapping ext="ttf" type="Native" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="tasks.yml" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="shema_uml" type="PlantUML file" />
       <mapping pattern="Vagrantfile" type="Puppet" />
     </extensionMap>
