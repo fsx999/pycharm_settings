@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
     </exec>
   </tool>
+  <tool name="update git" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ansible-playbook" />
+      <option name="PARAMETERS" value=" -i hosts --extra-var=@provisioning/var_prod.yml provisioning/prod.yml  -u ied-www -t git_update" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
+    </exec>
+  </tool>
 </toolSet>
