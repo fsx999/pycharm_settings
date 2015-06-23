@@ -1,16 +1,23 @@
 <toolSet name="reboot">
   <tool name="reboot bo" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="fab" />
-      <option name="PARAMETERS" value="reboot_bo" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
+      <option name="COMMAND" value="ansible" />
+      <option name="PARAMETERS" value="all -i hosts -m supervisorctl -a &quot;name=duck_bo state=restarted&quot; -u ied-www --sudo" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
     </exec>
   </tool>
   <tool name="reboot preins" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="fab" />
-      <option name="PARAMETERS" value="reboot_preins" />
+      <option name="COMMAND" value=" ansible" />
+      <option name="PARAMETERS" value="all -i hosts -m supervisorctl -a &quot;name=duck_preins state=restarted&quot; -u ied-www --sudo" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
+    </exec>
+  </tool>
+  <tool name="reboot site_ied" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ansible" />
+      <option name="PARAMETERS" value="all -i hosts -m supervisorctl -a &quot;name=site_ied state=restarted&quot; -u ied-www --sudo" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
     </exec>
   </tool>
 </toolSet>
