@@ -80,6 +80,7 @@
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/projet_rudy/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/vodantoc/bin/python" value="false" />
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
@@ -94,6 +95,7 @@
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="true" />
+        <entry key="$USER_HOME$/virtualenvs/projet_rudy/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/vodantoc/bin/python" value="false" />
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
@@ -108,6 +110,7 @@
         <entry key="$USER_HOME$/virtualenvs/duck_bo_etu/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/duck_duck/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/pal2/bin/python" value="false" />
+        <entry key="$USER_HOME$/virtualenvs/projet_rudy/bin/python" value="false" />
         <entry key="$USER_HOME$/virtualenvs/vodantoc/bin/python" value="false" />
         <entry key="sftp://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />
         <entry key="ssh://vagrant@192.168.33.10:22/home/vagrant/env_duckins/bin/python" value="false" />

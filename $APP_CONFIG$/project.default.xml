@@ -22,7 +22,7 @@
         <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="last_opened_file_path" value="$USER_HOME$/.Env/test-cms/bin/python" />
+        <property name="last_opened_file_path" value="$USER_HOME$/.Envs" />
         <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
