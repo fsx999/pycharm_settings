@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="c4103469-140d-4e8a-8e99-f9a18a4df40c" name="client_leger" url="http://192.168.2.151">
+        <fileTransfer host="192.168.2.151" port="22" rootFolder="/home/iedadmin" accessType="SFTP" password="dfcddfc2dfdedf98df99dfcfdfcbdfc7" username="iedadmin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
