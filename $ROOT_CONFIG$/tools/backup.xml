@@ -23,8 +23,8 @@
   <tool name="duck_duck_vagrant" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="fab" />
-      <option name="PARAMETERS" value="backup_duck_duck_vagrant" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
+      <option name="PARAMETERS" value="backup_db:prod,vagrant" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
     </exec>
   </tool>
 </toolSet>
