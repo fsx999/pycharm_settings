@@ -1,18 +1,4 @@
 <toolSet name="backup">
-  <tool name="duck_duck" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/virtualenvs/duck_duck/bin/fab" />
-      <option name="PARAMETERS" value="backup_duck_duck" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
-    </exec>
-  </tool>
-  <tool name="duck_bo_etu" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/virtualenvs/duck_duck/bin/fab" />
-      <option name="PARAMETERS" value="backup_duck_bo_etu" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_inscription" />
-    </exec>
-  </tool>
   <tool name="pal2" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/virtualenvs/duck_duck/bin/fab" />
@@ -23,7 +9,14 @@
   <tool name="duck_duck_vagrant" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="fab" />
-      <option name="PARAMETERS" value="backup_db:prod,vagrant" />
+      <option name="PARAMETERS" value="backup_db:prod,vagrant,duck_duck" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
+    </exec>
+  </tool>
+  <tool name="site-ied" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="fab" />
+      <option name="PARAMETERS" value="backup_db:prod,vagrant,site_ied" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/duck_ansible" />
     </exec>
   </tool>
