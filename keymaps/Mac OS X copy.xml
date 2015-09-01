@@ -1,71 +1,71 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift control SLASH" />
-    <keyboard-shortcut first-keystroke="shift control DIVIDE" />
-    <keyboard-shortcut first-keystroke="shift meta SLASH" />
-    <keyboard-shortcut first-keystroke="shift meta DIVIDE" />
-    <keyboard-shortcut first-keystroke="shift control COMMA" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="meta SLASH" />
-    <keyboard-shortcut first-keystroke="meta DIVIDE" />
-    <keyboard-shortcut first-keystroke="control COMMA" />
-    <keyboard-shortcut first-keystroke="meta PERIOD" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="Django.RunManageTaskAction">
-    <keyboard-shortcut first-keystroke="alt R" />
-    <keyboard-shortcut first-keystroke="meta alt R" />
+    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="meta PAGE_DOWN" />
-    <keyboard-shortcut first-keystroke="control meta DOWN" />
+    <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="EditorMoveToPageTop">
-    <keyboard-shortcut first-keystroke="meta PAGE_UP" />
-    <keyboard-shortcut first-keystroke="control meta UP" />
+    <keyboard-shortcut first-keystroke="meta page_up" />
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="PAGE_DOWN" />
-    <keyboard-shortcut first-keystroke="alt DOWN" />
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="PAGE_UP" />
-    <keyboard-shortcut first-keystroke="alt UP" />
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="control RIGHT" />
-    <keyboard-shortcut first-keystroke="control meta RIGHT" />
-    <keyboard-shortcut first-keystroke="control TAB" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="control LEFT" />
-    <keyboard-shortcut first-keystroke="control meta LEFT" />
-    <keyboard-shortcut first-keystroke="shift control TAB" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher" />
   <action id="Tool_pull_duck_duck">
-    <keyboard-shortcut first-keystroke="control meta K" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
   </action>
   <action id="Tool_reboot_reboot bo">
-    <keyboard-shortcut first-keystroke="shift meta R" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
-    <keyboard-shortcut first-keystroke="meta alt S" />
+    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
 </keymap>
