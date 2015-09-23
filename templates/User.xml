@@ -1,0 +1,11 @@
+<templateSet group="User">
+  <template name="char" value="$nom$ = models.CharField(&quot;$verbose_name$&quot;, max_length=$max$, db_column=&quot;$db$&quot;, null=True)" toReformat="false" toShortenFQNames="true">
+    <variable name="nom" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="verbose_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="max" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="db" expression="capitalizeAndUnderscore(nom)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
