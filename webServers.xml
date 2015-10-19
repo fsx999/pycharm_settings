@@ -22,6 +22,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="13cfd44a-43c4-4f55-b707-542e691a923c" name="moodle.iedparis8.net" url="https://moodle.iedparis8.net">
+        <fileTransfer host="moodle.iedparis8.net" port="22" rootFolder="/usr/local/www/apache24/data/" accessType="SFTP" password="dfe8dfc5dff0dfe1dfebdf98dfcddfd0df9cdf9d" username="www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
