@@ -1,10 +1,27 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/duck_ansible/Vagrantfile" timestamp="1445524137454" />
+      <file name="$USER_HOME$/PycharmProjects/moodle/moodle-vagrant/Vagrantfile" timestamp="1445524151761">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>postgresql</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>postgresql</text>
+      </register>
+      <register name="-" type="4">
+        <text>postgresql</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
