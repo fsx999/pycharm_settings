@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="j2" type="Jinja2" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern="tasks.yml" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
